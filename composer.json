@@ -1,0 +1,12 @@
+{
+  "name": "xrookiefight/discordbridge",
+  "description": "PocketMine Discord Bot Entegration",
+  "require": {
+    "team-reflex/discord-php": "^v10.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "DiscordBridge\\": "src/DiscordBridge/"
+    }
+  }
+}
